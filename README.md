@@ -1,6 +1,6 @@
 # Manu's Setup
 
-This repository showcases a Node.js server I developed for my personal home automation setup. It was inspired by my daily need to manage multiple gadgets efficiently. Often, my mom calls me down for dinner, and turning off everything to save energy—only to turn it back on later—was a hassle. This project, running on my Raspberry Pi, automates it!
+This repository showcases a Node.js server I developed for my personal home automation setup. It was inspired by my daily need to manage multiple gadgets efficiently. Often, my mom calls me down for dinner, and turning off everything to save energy - only to turn it back on later - was a hassle. This project, running on my Raspberry Pi, automates it!
 
 
 # BOM
