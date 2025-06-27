@@ -51,7 +51,7 @@ I can only control these via remote control and these lights do not have an API 
 
 **After installation!**
 
-| hex lights                               | wire routing under table                 | USB wire in back                         |
+| hex lights                               | wire routing under table                 | USB wire in back (black and gray )       |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 | ![alt text](journal-images/IMG_2472.jpg) | ![alt text](journal-images/IMG_2473.jpg) | ![alt text](journal-images/IMG_2474.jpg) |
 
