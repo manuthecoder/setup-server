@@ -7,7 +7,7 @@ created_at: "2025-06-13"
 
 # June 13, 2025
 
-#### Time spent: 1.5 hour
+#### Time spent: 1.5 hours
 
 This is the start of my setup server project. My goal is to create a server that controls various components of my setup, which includes RGB lights, hex panels, and other peripherals such as keyboards. The package includes various components to house the raspberry pi (thermal paste, casing, and fans) and a pre-built PCB board which connects the components together.
 
