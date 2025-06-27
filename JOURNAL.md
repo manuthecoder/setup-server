@@ -42,6 +42,7 @@ I installed my newly purchased Hexagonal lights which I got for my birthday. The
 Currently these draw a lot of power from the raspberry pi so I need to look for a better way to power them.
 
 **After installation!**
+
 ![alt text](journal-images/IMG_2472.jpg)
 
 These are held up by command velcro strips my Dad has.
