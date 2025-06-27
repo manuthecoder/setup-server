@@ -30,3 +30,5 @@ Today I assembled the components to create the server! It took a long time becau
 #### Time spent: 0.5 hours
 
 It's been a while since I last worked on this (because of finals). Today I flashed Debian on the Raspberry Pi. I installed Node.JS since I am familiar with TypeScript and I plan to use this for the server.
+
+I also swapped out my low power iPhone charger to a 65W charger to power it since it kept shutting down.
