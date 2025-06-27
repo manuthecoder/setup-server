@@ -9,9 +9,15 @@ created_at: "2025-06-13"
 
 #### Time spent: 1.5 hours
 
-This is the start of my setup server project. My goal is to create a server that controls various components of my setup, which includes RGB lights, hex panels, and other peripherals such as keyboards. The package includes various components to house the raspberry pi (thermal paste, casing, and fans) and a pre-built PCB board which connects the components together.
+This is the start of my setup server project.
 
-Most of today's time was brainstorming on how to connect my entire setup together while maintaing the aesthetic of my desk. I don't like wires everywhere so I am coming up with ways to hide them. This is challenging because a connecting wires for each component is required
+My goal is to create a server that controls various components of my setup, which includes RGB lights, hex panels, and other peripherals such as keyboards.
+
+The package has various components to house the raspberry pi (thermal paste, casing, and fans) and a pre-built PCB board which connects the components together.
+
+Most of today's time was brainstorming on how to connect my entire setup together while maintaing the aesthetic of my desk.
+
+I don't like wires everywhere so I am coming up with ways to hide them. This is challenging because a connecting wires for each component is required
 
 ![alt text](journal-images/IMG_20241207_113829.jpg)
 
