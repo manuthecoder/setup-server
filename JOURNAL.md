@@ -5,7 +5,7 @@ description: "Server to control my programming setup using various electrical co
 created_at: "2025-06-13"
 ---
 
-### June 13, 2025
+# June 13, 2025
 
 #### Time spent: 1.5 hour
 
@@ -15,7 +15,7 @@ Most of today's time was brainstorming on how to connect my entire setup togethe
 
 ![alt text](journal-images/IMG_20241207_113829.jpg)
 
-### June 17, 2025
+# June 17, 2025
 
 #### Time spent: 2 hours
 
@@ -25,8 +25,8 @@ Today I assembled the components to create the server! It took a long time becau
 | --------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
 | ![alt text](journal-images/IMG_20241207_114327.jpg) | ![alt text](journal-images/IMG_20241207_114324.jpg) | ![alt text](journal-images/IMG_20241207_222310.jpg) |
 
-### June 26, 2025
+# June 26, 2025
 
-#### Time spent: 1 hour
+#### Time spent: 0.5 hours
 
 It's been a while since I last worked on this (because of finals). Today I flashed Debian on the Raspberry Pi. I installed Node.JS since I am familiar with TypeScript and I plan to use this for the server.
