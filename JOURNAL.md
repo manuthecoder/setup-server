@@ -32,3 +32,16 @@ Today I assembled the components to create the server! It took a long time becau
 It's been a while since I last worked on this (because of finals). Today I flashed Debian on the Raspberry Pi. I installed Node.JS since I am familiar with TypeScript and I plan to use this for the server.
 
 I also swapped out my low power iPhone charger to a 65W charger to power it since it kept shutting down.
+
+# June 27, 2025
+
+#### Time spent: 0.5 hours
+
+I installed my newly purchased Hexagonal lights which I got for my birthday. They aren't open source but I plan to add a basic on/off functionality to them through USB
+
+Currently these draw a lot of power from the raspberry pi so I need to look for a better way to power them.
+
+**After installation!**
+![alt text](journal-images/IMG_2472.jpg)
+
+These are held up by command velcro strips my Dad has.
